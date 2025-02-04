@@ -1,0 +1,42 @@
+body {
+	background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtMjE4YmF0Y2g0LWF1bS0xOC5qcGc.jpg");
+	background-size: cover;
+}
+
+.container {
+	text-align: center;
+	background-color: lavender;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 20px;
+}
+
+.btn {
+	background: orange;
+}
+
+.given {
+	text-align: center;
+	background-color: blanchedalmond;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+.box {
+ 	display: inline-block;
+    width: 250px;
+    border: 2px solid #333;
+    padding: 15px;
+    margin: 15px;
+    background: white;
+    border-radius: 5px;
+}
